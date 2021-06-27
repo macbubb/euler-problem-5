@@ -1,2 +1,2 @@
-# euler-problem-5
+# prime-factorization
 Created with CodeSandbox
